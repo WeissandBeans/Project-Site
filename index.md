@@ -1,6 +1,6 @@
-## Team Weiss & Beans Project Site
+# Team Weiss & Beans Project Site
 
-# Team Members:
+## Team Members:
                 - Chris Walsh
                 - Samantha Anderson
                 - Harrison Lee
@@ -8,8 +8,8 @@
                 - Tien Ortman
 
 
-# Date of latest Project Update: 10-18-18
+## Date of latest Project Update: 10-18-18
 
-# Github Repository: https://github.com/WeissandBeans/Project-Site
+## Github Repository: https://github.com/WeissandBeans/Project-Site
 
-# Team contact email: WeissandBeans360@gmail.com
+## Team contact email: WeissandBeans360@gmail.com
