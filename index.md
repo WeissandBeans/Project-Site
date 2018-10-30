@@ -14,7 +14,7 @@
    [Meeting 2]()
 
 
-### Date of latest Project Update: 10-18-18
+### Date of latest Project Update: 10-30-18
 
 ### Github Repository: https://github.com/WeissandBeans/Project-Site
 
