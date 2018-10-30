@@ -1,11 +1,11 @@
 # Team Weiss & Beans Project Site
 
 ## Team Members:
-                - Chris Walsh
-                - Samantha Anderson
-                - Harrison Lee
-                - Dustin Yoo
-                - Tien Ortman
+   - Chris Walsh
+   - Samantha Anderson
+   - Harrison Lee
+   - Dustin Yoo
+   - Tien Ortman
 
 
 ## Meeting Notes:
