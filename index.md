@@ -11,7 +11,7 @@
 ## Meeting Notes:
    - [Meeting 1](https://docs.google.com/document/d/1D12ltyVHgUaxlGNnLVo0QXVNrJpJh_CvgHj76eHiq7Q/edit?usp=sharing)
    
-   - [Meeting 2]()
+   - [Meeting 2](https://docs.google.com/document/d/1kEHzlhikLRHQosBMaJqHHGPGiI6h1OS-151W3f21nsA/edit?usp=sharing)
 
 
 ### Date of latest Project Update: 10-30-18
