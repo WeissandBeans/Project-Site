@@ -22,6 +22,9 @@
    - [Meeting 5]()
    
 ## Diagrams
+   Model View
+   <img src="images/360 project.jpg" alt="SSD1" width="600">
+
    Use Case: Exporting an existing project
    <img src="images/Sequence Diagram 1.jpg" alt="SSD1" width="600">
    
