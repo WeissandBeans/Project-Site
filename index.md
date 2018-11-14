@@ -32,7 +32,7 @@
    <img src="images/Sequence Diagram 3.jpg" alt="SSD3" width="600">
 
 ## About
-   - Date of latest Project Update: 10-30-18
+   - Date of latest Project Update: 11-1-18
 
    - Github Repository: https://github.com/WeissandBeans/Constructor
 
