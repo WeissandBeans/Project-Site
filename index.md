@@ -17,7 +17,7 @@
 
 ## Diagrams
    Use Case: Exporting an existing project
-   <img src="/images/Sequence Diagram 1.jpg" alt="SSD1">
+   <img src="images/Sequence Diagram 1.jpg" alt="SSD1" width="450">
    
    Use Case: Sorting existing projects by attributes
    <img src="images/Sequence Diagram 2.jpg" alt="SSD2">
