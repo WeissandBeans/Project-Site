@@ -17,13 +17,13 @@
 
 ## Diagrams
    Use Case: Exporting an existing project
-   - [Sequence Diagram 1](https://drive.google.com/file/d/17oPvqpAC9HKcYB9k1_GGAfn2OBW2twmr/view?usp=sharing)
+   <img src="Project-Site/images/Sequence Diagram 1.jpg" alt="hi" class="inline"/>
    
    Use Case: Sorting existing projects by attributes
-   - [Sequence Diagram 2](https://drive.google.com/file/d/1qztEYMRtyXrdTrvTWwSkbnDEany6VY4L/view?usp=sharing)
+   <img src="Project-Site/images/Sequence Diagram 2.jpg" alt="hi" class="inline"/>
    
    Use Case: Editing an existing project's attributes
-   - [Sequence Diagram 3](https://drive.google.com/file/d/1BNrT70oNKT_kCY8IApRn6sUYLL4LX-CF/view?usp=sharing)
+   <img src="Project-Site/images/Sequence Diagram 3.jpg" alt="hi" class="inline"/>
 
 ## About
    - Date of latest Project Update: 10-30-18
