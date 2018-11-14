@@ -17,13 +17,13 @@
 
 ## Diagrams
    Use Case: Exporting an existing project
-   <img src="Project-Site/images/Sequence Diagram 1.jpg" alt="hi" class="inline"/>
+   <img src="Project-Site/images/Sequence Diagram 1.jpg" alt="SSD1">
    
    Use Case: Sorting existing projects by attributes
-   <img src="Project-Site/images/Sequence Diagram 2.jpg" alt="hi" class="inline"/>
+   <img src="Project-Site/images/Sequence Diagram 2.jpg" alt="SSD2">
    
    Use Case: Editing an existing project's attributes
-   <img src="Project-Site/images/Sequence Diagram 3.jpg" alt="hi" class="inline"/>
+   <img src="Project-Site/images/Sequence Diagram 3.jpg" alt="SSD3">
 
 ## About
    - Date of latest Project Update: 10-30-18
