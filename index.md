@@ -17,13 +17,13 @@
 
 ## Diagrams
    Use Case: Exporting an existing project
-   <img src="images/Sequence Diagram 1.jpg" alt="SSD1" width="450">
+   <img src="images/Sequence Diagram 1.jpg" alt="SSD1" width="600">
    
    Use Case: Sorting existing projects by attributes
-   <img src="images/Sequence Diagram 2.jpg" alt="SSD2">
+   <img src="images/Sequence Diagram 2.jpg" alt="SSD2" width="600">
    
    Use Case: Editing an existing project's attributes
-   <img src="images/Sequence Diagram 3.jpg" alt="SSD3">
+   <img src="images/Sequence Diagram 3.jpg" alt="SSD3" width="600">
 
 ## About
    - Date of latest Project Update: 10-30-18
