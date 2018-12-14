@@ -9,6 +9,9 @@
 
 ## Deliverables:
    - [Deliverable 1](https://docs.google.com/document/d/1Rbwyh-zfRzpPDnws7jzFzEny20FYKMRQEQXl9_kr8aQ/edit?usp=sharing)
+   - [Deliverable 2](https://docs.google.com/document/d/1qW9RW50E7ty_32XEBIsh530Zlnz1Zyp-JVpCCPxRSl0/edit?usp=sharing)
+   - [Deliverable 3](https://docs.google.com/document/d/1du6cmEbI6Vase4KXtCVqXkgnWLCttbtPRSWMuLg2bBM/edit?usp=sharing)
+   - [JAR and Source Code](https://drive.google.com/drive/folders/1A6h7NfyfnnIp6JOEloUp8ZIMfxCt2iCK?usp=sharing)
 
 ## Meeting Notes:
    - [Meeting 1](https://docs.google.com/document/d/1D12ltyVHgUaxlGNnLVo0QXVNrJpJh_CvgHj76eHiq7Q/edit?usp=sharing)
@@ -19,7 +22,6 @@
 
    - [Meeting 4](https://docs.google.com/document/d/1HPtR8JQVv0uI2rC451lZSLitFR3WPf0GCtQnHHgqqBs/edit?usp=sharing)
    
-   - [Meeting 5]()
    
 ## Diagrams
    Model View:
@@ -35,7 +37,7 @@
    <img src="images/Sequence Diagram 3.jpg" alt="SSD3" width="600">
 
 ## About
-   - Date of latest Project Update: 11-1-18
+   - Date of latest Project Update: 12-13-18
 
    - Github Repository: https://github.com/WeissandBeans/Constructor
 
